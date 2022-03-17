@@ -31,6 +31,7 @@ wiot360 - Covid-19 Task
 
 ##  ScreenShots :
 
-![image](https://user-images.githubusercontent.com/15160491/158747579-44228695-a59d-4385-9957-5b849a7bf6a4.png)
+
+![image](https://user-images.githubusercontent.com/15160491/158747752-a70374e1-f949-4e4c-982e-21bc52673f53.png)
 
 ![image](https://user-images.githubusercontent.com/15160491/158747512-a137384f-0d2c-410f-838f-8b1596a0d8f8.png)
