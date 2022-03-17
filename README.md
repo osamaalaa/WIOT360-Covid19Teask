@@ -33,7 +33,7 @@ wiot360 - Covid-19 Task
 ### ScreenShots: 
 
 
-![Boost your post for increasing sales](/img/img1.jpg)
+![Boost your post for increasing sales](/frotnend/assets/img/img1.jpg)
 
 
-![Boost your post for increasing sales](/img/img2.jpg)
+![Boost your post for increasing sales](/frotnend/assets/img/img2.jpg)
