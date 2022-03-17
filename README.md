@@ -28,12 +28,3 @@ wiot360 - Covid-19 Task
 
 1. npm install 
 2. npm run start 
-
-
-### ScreenShots: 
-
-
-![Boost your post for increasing sales](/frotnend/assets/img/img1.jpg)
-
-
-![Boost your post for increasing sales](/frotnend/assets/img/img2.jpg)
